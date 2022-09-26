@@ -1,0 +1,30 @@
+img {
+    float: left;
+    width:70px;
+    margin-right: 3em;
+}
+h1 {
+    color : #A66E43;
+    font-size: 1.7em;
+}
+h2#first{
+    color : green;
+    font-size: 1.5em;
+}
+p.first {
+    text-indent: 1em;
+}
+
+#copyright {
+    text-align: right;
+}
+
+li a {
+    color : green;
+}
+li:nth-child(1) a , li:nth-child(2) a {
+    color : black;
+}
+p {
+    font-size : 0.8em;
+}
